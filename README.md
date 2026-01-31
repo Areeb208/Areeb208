@@ -48,7 +48,7 @@ I’m **Aki**, a **beginner Frontend Web Developer** who enjoys turning designs 
 ## 🎧 Coding Soundtrack
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=314c5tww3leljwgc2pqwepztalka&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314c5tww3leljwgc2pqwepztalka&count=1" />
 </p>
 
 ---
