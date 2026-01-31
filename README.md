@@ -28,11 +28,10 @@ I’m **Aki**, a **beginner Frontend Web Developer** who enjoys turning designs 
 
 ---
 
-## 📊 GitHub Stats
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Areeb208&theme=dark&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=3600" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb208&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=3600" />
-
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Areeb208&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Areeb208&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb208&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 
 ## 🚀 What I'm Working On
@@ -70,6 +69,4 @@ I’m **Aki**, a **beginner Frontend Web Developer** who enjoys turning designs 
 
 <p align="center">⭐ Feel free to explore my repositories or reach out!</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Areeb208&style=flat-square&color=6c63ff" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=Areeb208&icon=0&color=0)](https://visitcount.itsvg.in)
