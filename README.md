@@ -31,8 +31,8 @@ I’m **Aki**, a **beginner Frontend Web Developer** who enjoys turning designs 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Areeb208&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb208&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Areeb208&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb208&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -42,14 +42,6 @@ I’m **Aki**, a **beginner Frontend Web Developer** who enjoys turning designs 
 * Improving my **React.js fundamentals**
 * Building small but polished frontend projects
 * Practicing responsive and accessible design
-
----
-
-## 🎧 Coding Soundtrack
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314c5tww3leljwgc2pqwepztalka&count=1" />
-</p>
 
 ---
 
@@ -68,7 +60,7 @@ I’m **Aki**, a **beginner Frontend Web Developer** who enjoys turning designs 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://areeb-khan.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
