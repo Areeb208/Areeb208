@@ -28,6 +28,13 @@ I’m **Aki**, a **beginner Frontend Web Developer** who enjoys turning designs 
 
 ---
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Areeb208&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Areeb208&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb208&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
 ## 🚀 What I'm Working On
 
 * Improving my **React.js fundamentals**
