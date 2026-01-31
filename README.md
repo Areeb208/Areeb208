@@ -28,15 +28,6 @@ I’m **Aki**, a **beginner Frontend Web Developer** who enjoys turning designs 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Areeb208&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb208&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
----
-
 ## 🚀 What I'm Working On
 
 * Improving my **React.js fundamentals**
@@ -60,7 +51,7 @@ I’m **Aki**, a **beginner Frontend Web Developer** who enjoys turning designs 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://areeb-khan.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-094e4d?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
