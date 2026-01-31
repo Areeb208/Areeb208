@@ -69,4 +69,6 @@ I’m **Aki**, a **beginner Frontend Web Developer** who enjoys turning designs 
 
 <p align="center">⭐ Feel free to explore my repositories or reach out!</p>
 
-[![](https://visitcount.itsvg.in/api?id=Areeb208&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Areeb208&style=flat-square&color=6c63ff" />
+</p>
